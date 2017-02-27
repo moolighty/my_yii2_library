@@ -1,0 +1,9 @@
+{
+    "require": {
+        "yiisoft/yii2": "2.0.11.2",
+        "robinherbots/jquery.inputmask": "^3.3",
+        "yiisoft/yii2-bootstrap": "^2.0",
+        "yiisoft/yii2-swiftmailer": "^2.0",
+        "yiisoft/yii2-authclient": "^2.1"
+    }
+}
